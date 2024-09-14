@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samit Poudel</h1>
 <h3 align="center">I am a beginner MERN-stack developer.</h3>
 
-- 🔭 I’m currently working on **Authentication system usingML MERN**
+- 🔭 I’m currently working on **Authentication system using MERN**
 
 - 🌱 I’m currently learning **React JS and Epress**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/samit poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samit poudel" height="30" width="40" /></a>
+<a href="https://fb.com/Samit Poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samit poudel" height="30" width="40" /></a>
 <a href="https://instagram.com/god_snipe51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="god_snipe51" height="30" width="40" /></a>
 </p>
 
