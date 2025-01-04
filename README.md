@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a full stack Hotel info website.<br>🌱 I'm learning React JS and Express.
+🌱 I'm learning React JS and Express.
 
 
 # 💻 Tech Stack:
